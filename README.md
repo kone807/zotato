@@ -1,2 +1,2 @@
 # zotato
-Food ordering application created using OOPS concepts in Java
+This command line application makes use of OOPS concepts, namely inheritance and polymorphism in particular, and implements a basic food ordering service having lists of restaurants with their respective menu cards, and a customer list, with the amount they have in wallets and allows customers to place orders. There are also bonus points for ordering food above a certain price. The restaurants and customers are divided into different categories (elite, deluxe, normal) and each have their benefits.
